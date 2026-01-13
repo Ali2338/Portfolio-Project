@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profile from "../assets/profile.png";
+import profile from "../assets/Profile.png";
 ; // adjust extension if png
 
 export default function Hero() {
