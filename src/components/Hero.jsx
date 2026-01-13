@@ -1,6 +1,4 @@
 import { motion } from "framer-motion";
-import profile from "../assets/Profile.png";
-; // adjust extension if png
 
 export default function Hero() {
   return (
@@ -40,6 +38,7 @@ export default function Hero() {
 
             <a
               href="/resume.pdf"
+              download
               className="border border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-600 hover:text-white transition"
             >
               Download Resume
@@ -54,7 +53,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
         >
           <img
-            src={profile}
+            src="/profile.png"
             alt="Mohammad Ali"
             className="w-52 h-52 md:w-72 md:h-72 rounded-full 
             object-cover object-[center_15%]
