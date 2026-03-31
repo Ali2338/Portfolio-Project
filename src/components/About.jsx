@@ -14,9 +14,9 @@ export default function About() {
         </h2>
 
         <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-          I am a B.Tech CSE student specializing in Full Stack Development and Data Analytics. 
-          I have hands-on experience building practical projects such as a Smart Expense Tracker, 
-          an AI Interview Preparation Platform, and a Retail Customer Behaviour Analysis system. 
+          I am a B.Tech CSE student specializing in Data Analytics and MERN Stack Development. 
+          I have hands-on experience building practical projects such as a Retail Customer Behaviour
+          Analysis system and a Supply Chain Analysis system, and Personel Expense Tracker web App.
           I am passionate about developing efficient solutions, enhancing user experience, and 
           continuously improving my technical and problem-solving skills.
         </p>

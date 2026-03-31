@@ -25,7 +25,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-4 text-lg md:text-xl text-gray-600 dark:text-gray-300">
-            Full Stack MERN Developer • Data Analytics Enthusiast
+           • Data Analytics Enthusiast • MERN Developer
           </p>
 
           <div className="mt-8 flex justify-center md:justify-start gap-4">

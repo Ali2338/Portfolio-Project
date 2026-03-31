@@ -3,25 +3,25 @@ import { motion } from "framer-motion";
 export default function Projects() {
   const projects = [
     {
-      title: "Personel Expense Tracker Web App",
-      desc: "MERN app with OTP auth, expense tracking and analytics dashboard.",
-      tech: "• React • Node • MongoDB",
-      github: "https://github.com/Ali2338/Expense-tracker",
-      live: "https://expense-tracker-nine-weld-38.vercel.app"
-    },
-    {
-      title: "AI Interview Preparation Platform",
-      desc: "AI-powered interview question practice with smart sessions.",
-      tech: "• React • Node • MongoDB • AI APIs",
-      github: "https://github.com/Ali2338/Interview-prep",
-      live: ""
-    },
-    {
       title: "Retail Customer Behaviour Analysis",
       desc: "Data analytics project with visualization and insights.",
       tech: "• Python • Pandas • SQL • Power BI",
       github: "https://github.com/Ali2338/Customer_Behavior_Analysis",
       live: ""
+    },
+    {
+      title: "Supply Chain Management Analysis ",
+      desc: "Data analytics project with visualization and insights.",
+      tech: "• Python • Pandas • SQL • Power BI",
+      github: "https://github.com/Ali2338/Supply-Chain-Analytics",
+      live: ""
+    },
+    {
+      title: "Personel Expense Tracker Web App",
+      desc: "MERN app with OTP auth, expense tracking and analytics dashboard.",
+      tech: "• React • Node • MongoDB",
+      github: "https://github.com/Ali2338/Expense-tracker",
+      live: "https://expense-tracker-nine-weld-38.vercel.app"
     }
   ];
 
